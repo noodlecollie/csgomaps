@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6592"
-	"mapversion" "684"
+	"mapversion" "685"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "67"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -51798,7 +51798,7 @@ entity
 	"origin" "0 -704 -1016"
 	editor
 	{
-		"color" "0 118 171"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -8768]"
@@ -51819,7 +51819,7 @@ entity
 	"origin" "0 -704 -1144"
 	editor
 	{
-		"color" "0 168 173"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -8768]"
@@ -51840,7 +51840,7 @@ entity
 	"origin" "0 -704 -1272"
 	editor
 	{
-		"color" "0 210 115"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -8768]"
@@ -51861,7 +51861,7 @@ entity
 	"origin" "0 -704 -1400"
 	editor
 	{
-		"color" "0 160 153"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -8768]"
@@ -60074,8 +60074,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-7.69216 648.439 173.162]"
-		"look" "[-22.5377 840.509 47.1014]"
+		"position" "[-36.3711 -333.317 278.227]"
+		"look" "[48.4343 -162.328 149.489]"
 	}
 }
 cordons
