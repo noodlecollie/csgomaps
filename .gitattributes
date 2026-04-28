@@ -1,0 +1,2 @@
+# Diff VMFs, but do not allow custom merging or EOL conversion
+*.vmf -merge -text
